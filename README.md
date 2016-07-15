@@ -1,2 +1,2 @@
-# ADMESH
-Unstructured simplex automatic mesh generator 
+# ADMESH+
+An automatic,unstructured simplex mesh generator 
